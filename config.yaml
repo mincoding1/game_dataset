@@ -4,4 +4,5 @@ names:
   0: Scissor
   1: paper
   2: rock
-path: ./dataset
+
+path: ./game_dataset
